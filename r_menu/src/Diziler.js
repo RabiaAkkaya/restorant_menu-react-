@@ -22,7 +22,7 @@ export var yemek_baslik=["Karnı Yarık","Sarma","İçli Köfte","Mantı","Köft
 export var yemek_foto=[yemek1,yemek2,yemek3,yemek4,yemek5,yemek6];
 export var tatli_baslik=["Baklava","Sütlaç","Kadayıf","Magnolia","Şekerpare","Sütlü Nuriye"];
 export var tatli_foto=[baklava,sutlac,kadayıf,magnolia,sekerpare,sutlunuriye];
-export var icecek =["Türk Kahvesi","Latte","Çay","İce Tea"];
+export var icecek =["Türk Kahvesi","Latte","Çay","Ice Tea"];
 export var icecek_fiyat =["30 TL","40 TL","15 TL","25 TL"];
 
 export var icecek_foto=[turkkahve,latte,cay,icetea];
